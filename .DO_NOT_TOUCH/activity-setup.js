@@ -1,6 +1,5 @@
 import Phaser from "phaser";
 import DevLaunchers from "./classes/dev-launchers";
-import ProgressMonitor from "./classes/dev-launchers/activities/progress-monitor";
 
 // Load specific game stuff here that will be used in
 // this file, or in 'modify.mjs'
